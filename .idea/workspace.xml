@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a4615ff3-a768-4e60-855f-1f8952fcaed0" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="29qJ7XZF2f3PrkPORWJbI4NDHqu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Selenium class 10/QAMastersPOM2020/QAMastersPOM2020/src/main/java/automationPractice/Pages/HomePage.java" />
+  </component>
+  <component name="RunManager" selected="JUnit.SmokeTestSuite.searchProduct">
+    <configuration name="SmokeTestSuite.addToCart" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FunctioanlDrivenFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AutomationPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="AutomationPractice" />
+      <option name="MAIN_CLASS_NAME" value="AutomationPractice.SmokeTestSuite" />
+      <option name="METHOD_NAME" value="addToCart" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmokeTestSuite.searchProduct" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FunctioanlDrivenFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AutomationPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="AutomationPractice" />
+      <option name="MAIN_CLASS_NAME" value="AutomationPractice.SmokeTestSuite" />
+      <option name="METHOD_NAME" value="searchProduct" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmokeTestSuite.userLogin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FunctioanlDrivenFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AutomationPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="AutomationPractice" />
+      <option name="MAIN_CLASS_NAME" value="AutomationPractice.SmokeTestSuite" />
+      <option name="METHOD_NAME" value="userLogin" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmokeTestSuite.verifyThatUserCanSeeValidationMessages" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FunctioanlDrivenFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AutomationPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="AutomationPractice" />
+      <option name="MAIN_CLASS_NAME" value="AutomationPractice.SmokeTestSuite" />
+      <option name="METHOD_NAME" value="verifyThatUserCanSeeValidationMessages" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmokeTestSuite.verifyThatUserCannotRegisterWithInvalidData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FunctioanlDrivenFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AutomationPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="AutomationPractice" />
+      <option name="MAIN_CLASS_NAME" value="AutomationPractice.SmokeTestSuite" />
+      <option name="METHOD_NAME" value="verifyThatUserCannotRegisterWithInvalidData" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SmokeTestSuite.searchProduct" />
+        <item itemvalue="JUnit.SmokeTestSuite.verifyThatUserCannotRegisterWithInvalidData" />
+        <item itemvalue="JUnit.SmokeTestSuite.verifyThatUserCanSeeValidationMessages" />
+        <item itemvalue="JUnit.SmokeTestSuite.addToCart" />
+        <item itemvalue="JUnit.SmokeTestSuite.userLogin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4615ff3-a768-4e60-855f-1f8952fcaed0" name="Changes" comment="" />
+      <created>1653834515981</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653834515981</updated>
+    </task>
+    <servers />
+  </component>
+</project>
